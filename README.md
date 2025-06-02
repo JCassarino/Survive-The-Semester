@@ -4,7 +4,7 @@
 
 ## 🎮 Gameplay Overview
 
-Obstacles and helpful items will rain down from the sky. You'll need quick reflexes to guide True Grit left and right, avoiding the pitfalls of college life while grabbing the essentials for success.
+Obstacles and helpful items will rain down from the sky. You'll need quick reflexes to guide True Grit left and right, avoiding the struggles of college life while grabbing the essentials for success.
 
 **Controls:**
 * **A Key:** Move True Grit Left
