@@ -47,6 +47,7 @@ The challenge increases over time – how long can you survive the semester?
 ## 🛠️ Technologies Used
 
 * **Processing** (Java)
+* **Art created in MS Paint by me**
 
 ## 🚀 How to Play
 
