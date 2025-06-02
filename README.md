@@ -2,22 +2,6 @@
 
 **Survive the Semester** is a fast-paced, single-player arcade-style game created with Processing. You take on the role of True Grit, the UMBC mascot, as you navigate the challenges of your first semester!
 
-## 🌟 Visuals Showcase
-
-* **Gameplay in Action (GIF):**
-
-    ![Survive the Semester Gameplay GIF](GameDemo.gif)
-
-  *(True Grit dodging obstacles and collecting items.)*
-
-* **Screenshot 1:**
-    ![Screenshot 1 - Game Start or Key Moment](SS1.png)
-    *(Main Menu)*
-
-* **Screenshot 2:**
-    ![Screenshot 2 - Another Angle or Feature](SS2.png)
-    *(Tutorial Screen)*
-
 ## 🎮 Gameplay Overview
 
 Obstacles and helpful items will rain down from the sky. You'll need quick reflexes to guide True Grit left and right, avoiding the pitfalls of college life while grabbing the essentials for success.
@@ -37,6 +21,23 @@ Obstacles and helpful items will rain down from the sky. You'll need quick refle
     * Water (to stay healthy) 
 
 The challenge increases over time – how long can you survive the semester?
+
+## 🌟 Visuals Showcase
+
+* **Gameplay in Action (GIF):**
+
+    ![Survive the Semester Gameplay GIF](GameDemo.gif)
+
+  *(True Grit dodging obstacles and collecting items.)*
+
+* **Screenshot 1:**
+    ![Screenshot 1 - Game Start or Key Moment](SS1.png)
+    *(Main Menu)*
+
+* **Screenshot 2:**
+    ![Screenshot 2 - Another Angle or Feature](SS2.png)
+    *(Tutorial Screen)*
+
 
 ## ✨ Features
 
