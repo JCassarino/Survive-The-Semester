@@ -5,6 +5,7 @@
 ## 🌟 Visuals Showcase
 
 * **Gameplay in Action (GIF):**
+
     ![Survive the Semester Gameplay GIF](GameDemo.gif)
     *(True Grit dodging obstacles and collecting items.)*
 
