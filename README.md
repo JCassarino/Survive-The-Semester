@@ -41,22 +41,19 @@ The challenge increases over time – how long can you survive the semester?
 ## ✨ Features
 
 * Arcade-style survival gameplay.
-* Play as the UMBC mascot, True Grit!
 * Falling obstacles and collectible items.
-* Simple and intuitive keyboard controls.
+* Simple keyboard controls.
 * Increasing difficulty as the game progresses.
-* High score tracking. *(<-- Keep this if it's implemented, otherwise remove)*
 
 ## 🛠️ Technologies Used
 
-* **Processing** (Java mode)
-* *[Mention any specific art assets or sound sources if you used external ones and want to credit them]*
+* **Processing** (Java)
 
 ## 🚀 How to Play
 
 1.  Ensure you have the [Processing IDE](https://processing.org/download) installed.
 2.  Download or clone this repository.
-3.  Open the main `.pde` file (e.g., `SurviveTheSemester.pde` or the actual name of your main sketch file) in the Processing IDE.
+3.  Open the main `.pde` file in the Processing IDE.
 4.  Click the "Run" (▶) button to start the game.
 
 ## 📝 Project Status
