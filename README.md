@@ -7,7 +7,8 @@
 * **Gameplay in Action (GIF):**
 
     ![Survive the Semester Gameplay GIF](GameDemo.gif)
-    *(True Grit dodging obstacles and collecting items.)*
+
+  *(True Grit dodging obstacles and collecting items.)*
 
 * **Screenshot 1:**
     ![Screenshot 1 - Game Start or Key Moment](SS1.png)
