@@ -1,19 +1,19 @@
-# Survive the Semester: Retriever Rush! 🎓🐾
+# Survive the Semester🎓🐾
 
 **Survive the Semester** is a fast-paced, single-player arcade-style game created with Processing. You take on the role of True Grit, the UMBC mascot, as you navigate the challenges of your first semester!
 
 ## 🌟 Visuals Showcase
 
 * **Gameplay in Action (GIF):**
-    `![Survive the Semester Gameplay GIF](GameDemo.gif)`
+    ![Survive the Semester Gameplay GIF](GameDemo.gif)
     *(True Grit dodging obstacles and collecting items.)*
 
 * **Screenshot 1:**
-    `![Screenshot 1 - Game Start or Key Moment](SS1.png)`
+    ![Screenshot 1 - Game Start or Key Moment](SS1.png)
     *(Main Menu)*
 
 * **Screenshot 2:**
-    `![Screenshot 2 - Another Angle or Feature](SS2.png)`
+    ![Screenshot 2 - Another Angle or Feature](SS2.png)
     *(Tutorial Screen)*
 
 ## 🎮 Gameplay Overview
