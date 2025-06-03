@@ -1,8 +1,8 @@
-# Survive the Semester🎓🐾
+# Survive the Semester
 
 **Survive the Semester** is a single-player arcade-style game created with Processing. You take on the role of True Grit, the UMBC mascot, as you navigate the challenges of your first semester!
 
-## 🎮 Gameplay Overview
+## Gameplay Overview
 
 Obstacles and helpful items will rain down from the sky. You'll need quick reflexes to guide True Grit left and right, avoiding the struggles of college life while grabbing the essentials for success.
 
@@ -22,7 +22,7 @@ Obstacles and helpful items will rain down from the sky. You'll need quick refle
 
 The challenge increases over time – how long can you survive the semester?
 
-## 🌟 Visuals Showcase
+## Visuals Showcase
 
 * **Gameplay in Action:**
 
@@ -37,25 +37,25 @@ The challenge increases over time – how long can you survive the semester?
     ![Screenshot 2 - Another Angle or Feature](SS2.png)
 
 
-## ✨ Features
+## Features
 
 * Arcade-style survival gameplay.
 * Falling obstacles and collectible items.
 * Simple keyboard controls.
 * Increasing difficulty as the game progresses.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Processing** (Java)
 * **Art created in MS Paint by me**
 
-## 🚀 How to Play
+## How to Play
 
 1.  Ensure you have the [Processing IDE](https://processing.org/download) installed.
 2.  Download or clone this repository.
 3.  Open the main `.pde` file in the Processing IDE.
 4.  Click the "Run" (▶) button to start the game.
 
-## 📝 Project Status
+## Project Status
 
 This is a completed project. No further updates are planned at this time.
