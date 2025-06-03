@@ -54,7 +54,7 @@ The challenge increases over time – how long can you survive the semester?
 1.  Ensure you have the [Processing IDE](https://processing.org/download) installed.
 2.  Download or clone this repository.
 3.  Open the main `.pde` file in the Processing IDE.
-4.  Click the "Run" (▶) button to start the game.
+4.  Click the "Run" button to start the game.
 
 ## Project Status
 
